@@ -3,6 +3,8 @@
 /.env.local
 /.env.local.php
 /.env.*.local
+/.idea/cauldron_overflow5.4.iml
+/.idea/php.xml
 /config/secrets/prod/prod.decrypt.private.php
 /public/bundles/
 /var/
